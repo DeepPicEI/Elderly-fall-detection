@@ -1,0 +1,8 @@
+train: E:\New-work\my_fall\images\train # train images (relative to 'path') 128 images
+val: E:\New-work\my_fall\images\val # val images (relative to 'path') 128 images
+test: E:\New-work\my_fall\images\test # test images (optional)
+
+# Classes
+names:
+  0: fall
+
